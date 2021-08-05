@@ -7,6 +7,8 @@ This module explored the basics of the react-testing library and ideas behind th
 ## Objectives
 
 - explain what automated testing is and its importance
+    -Automated testing is tests that can be run automatically through the program rather than having someone manually test. This is important because it can catch things that as humans we may miss and can be done in a matter of seconds. It also can catch code that may break the program after a new component is added which could save companies money because it is found before the program is deployed.  
+
 - use react-testing-library for testing react components
 - use react-testing-library to test user interactions with userEvent
 - use async / await and waitFor to test changes in a components state.
